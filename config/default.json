@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://elshadid:123@cluster0-tvnt3.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
