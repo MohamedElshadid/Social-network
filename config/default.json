@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://elshadid:123@cluster0-tvnt3.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "Iv1.70040a72b80d7c5e",
+    "githubSecret":"121a22cbf19db6d4af868f475a01bf70bff56bcb"
 }
